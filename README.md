@@ -1,4 +1,4 @@
-# Inventorius - WIP
+# Inventorius - v0.1.0
 [![Dependency Status](https://gemnasium.com/fossaegean/inventorius.svg)](https://gemnasium.com/fossaegean/inventorius)
 [![Build Status](https://travis-ci.org/fossaegean/inventorius.svg)](https://travis-ci.org/fossaegean/inventorius)
 [![Code Climate](https://codeclimate.com/repos/55d452b1e30ba01abe011c1b/badges/35d0a8f3af7038bcef8c/gpa.svg)](https://codeclimate.com/repos/55d452b1e30ba01abe011c1b/feed)
